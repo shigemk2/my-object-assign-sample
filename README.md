@@ -1,13 +1,7 @@
-# my-react-template
+# my-object-assign-sample
 
-Reactのオレオレテンプレート
+https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
 
-ReactとReactDOMの違い
+> １つ以上のsourceオブジェクトの保有する全ての列挙(enumerable)プロパティの値を、targetのオブジェクトへコピーするやつ
 
-http://www.shigemk2.com/entry/memo_React_vs_ReactDOM
-
-Reactチュートリアルをgulpとかbrowserifyとかを使って自動変換
-
-http://qiita.com/ma-tu/items/52f9c847e74b651d923f
-
-http://qiita.com/masato/items/35b0900e3a7282b33bf8
+https://www.npmjs.com/package/object-assign
